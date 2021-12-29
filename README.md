@@ -7,5 +7,6 @@ It's a basic login page were html, css, javascript are used, here you may give t
 
 <h1> login successful</h1>
 
-  ![o](https://user-images.githubusercontent.com/70971734/147695419-fe4be8df-a119-44d8-bb4a-1aae87f46ccf.jpeg)
+  ![y](https://user-images.githubusercontent.com/70971734/147695517-8ccc14b3-d1f1-486e-8416-badc311fb0ae.jpeg)
+
 
